@@ -28,7 +28,7 @@ A Python script to fetch your Spotify listening stats, including your top artist
 
 4. Run the script:
    ```bash
-   python spotify_stats.py
+   python spotipy.py
    ```
 
 5. Log in to your Spotify account in the browser when prompted, and view your stats in the console.
